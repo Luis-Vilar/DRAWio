@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T23:08:27.863Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5fywRzzKW7nmxARUCSbi" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T23:26:06.320Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e-YWR-j7Vn4MrapK7PAZ" version="21.3.7" type="github">
   <diagram name="Página-1" id="5aFPregrF2MVChz225d0">
-    <mxGraphModel dx="1112" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,7 +229,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h3J46fshfmAHZZzOA3IQ-77" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=-0.011;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h3J46fshfmAHZZzOA3IQ-1" target="h3J46fshfmAHZZzOA3IQ-41">
+        <mxCell id="h3J46fshfmAHZZzOA3IQ-77" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=-0.011;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="h3J46fshfmAHZZzOA3IQ-1" target="h3J46fshfmAHZZzOA3IQ-41">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="148.92000000000002" y="189" as="sourcePoint" />
             <mxPoint x="259.99999999999994" y="70" as="targetPoint" />
